@@ -2,6 +2,7 @@
 
 | File | Description |
 |:-----|:------------|
+| [**`CreateLNK.ps1`**](https://gist.github.com/caueb/0442d9c04369459d3a6d0e167ee0a843) | Create shortcut to steal hashes with responder |
 | [**`dllmain.c`**](https://gist.github.com/caueb/329d9e9939285fc05a24f623b58824d5) | DLL Simple reverse shell |
 | [**`shellcode.py`**](https://gist.github.com/caueb/81c4b6b9cc89d9709cc5abc5e5beeb72) | Convert binary to shellcode |
 | [**`bintoaes.py`**](https://gist.github.com/caueb/6fa10a0c95fb2ac7b694771354822eff) | AES encrypt binary and save the encrypted shellcode to a file. |
