@@ -2,6 +2,7 @@
 
 | File | Description |
 |:-----|:------------|
+| [**`reverse.c`**](https://gist.github.com/caueb/152420c135b86f56dee17856888f7c8f) | DLL Simple reverse shell 2 - Hijack Clickonce app |
 | [**`CreateLNK.ps1`**](https://gist.github.com/caueb/0442d9c04369459d3a6d0e167ee0a843) | Create shortcut to steal hashes with responder |
 | [**`dllmain.c`**](https://gist.github.com/caueb/329d9e9939285fc05a24f623b58824d5) | DLL Simple reverse shell |
 | [**`shellcode.py`**](https://gist.github.com/caueb/81c4b6b9cc89d9709cc5abc5e5beeb72) | Convert binary to shellcode |
