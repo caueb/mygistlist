@@ -2,6 +2,8 @@
 
 | File | Description |
 |:-----|:------------|
+| [**`itsnotmalware.cpp`**](https://gist.github.com/caueb/ea6cbc96b52e22c4004ba49d511a2b4d) | Simple Sandbox evasion checking if the name of executable is in the path. |
+| [**`dll-cpl-template.c`**](https://gist.github.com/caueb/5be3d374cdf11081e02dcb208de2cd78) | .CPL Template |
 | [**`reverse.c`**](https://gist.github.com/caueb/152420c135b86f56dee17856888f7c8f) | DLL Simple reverse shell 2 - Hijack Clickonce app |
 | [**`CreateLNK.ps1`**](https://gist.github.com/caueb/0442d9c04369459d3a6d0e167ee0a843) | Create shortcut to steal hashes with responder |
 | [**`dllmain.c`**](https://gist.github.com/caueb/329d9e9939285fc05a24f623b58824d5) | DLL Simple reverse shell |
