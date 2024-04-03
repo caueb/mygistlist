@@ -2,7 +2,7 @@
 
 | File | Description |
 |:-----|:------------|
-| [**`gen-wordlist.py`**](https://gist.github.com/caueb/3a1efe4a70134765c1308a2457507ce9) | Python wordlist generator for cracking. |
+| [**`gen-wordlist.py`**](https://gist.github.com/caueb/3a1efe4a70134765c1308a2457507ce9) | Python wordlist generator for spray/cracking. |
 | [**`put-webserver.py`**](https://gist.github.com/caueb/3a9a122e3da3d6a8aa73c63da4ecf75f) | Python webserver that supports PUT method to receive and save files. |
 | [**`itsnotmalware.cpp`**](https://gist.github.com/caueb/ea6cbc96b52e22c4004ba49d511a2b4d) | Simple Sandbox evasion checking if the name of executable is in the path. |
 | [**`dll-cpl-template.c`**](https://gist.github.com/caueb/5be3d374cdf11081e02dcb208de2cd78) | .CPL Template |
