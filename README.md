@@ -2,7 +2,6 @@
 
 | File | Description |
 |:-----|:------------|
-
 | [**`Invoke-DefenderExclusions`**](https://gist.github.com/caueb/1e2c6af5464bf06ae7f15292799d4b94) | Retrieve Defender exclusion paths as low-privilege user by parsing Windows event 5007. |
 | [**`gen-wordlist.py`**](https://gist.github.com/caueb/3a1efe4a70134765c1308a2457507ce9) | Python wordlist generator for spray/cracking. |
 | [**`put-webserver.py`**](https://gist.github.com/caueb/3a9a122e3da3d6a8aa73c63da4ecf75f) | Python webserver that supports PUT method to receive and save files. |
