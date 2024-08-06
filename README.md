@@ -2,6 +2,7 @@
 
 | File | Description |
 |:-----|:------------|
+| [**`create-pdf.py`**](https://gist.github.com/caueb/85ac1ace12036ef39b29fd22983ad199) | Creates a PDF with a hyperlink covering the whole document. |
 | [**`lookupadmins.py`**](https://gist.github.com/caueb/3fb7e083bf888509a1999d96e7a4ae31) | AD Recon: Retrieve the local admins on a target machine. |
 | [**`Invoke-DefenderExclusions.ps1`**](https://gist.github.com/caueb/1e2c6af5464bf06ae7f15292799d4b94) | Retrieve Defender exclusion paths as low-privilege user by parsing Windows event 5007. |
 | [**`gen-wordlist.py`**](https://gist.github.com/caueb/3a1efe4a70134765c1308a2457507ce9) | Python wordlist generator for spray/cracking. |
