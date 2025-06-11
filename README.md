@@ -2,6 +2,7 @@
 
 | File | Description |
 |:-----|:------------|
+| [**`http_sniffer.py`**](https://gist.github.com/caueb/8794c0c7ccac51286527617cd0dd4bf1) | Simple HTTP creds sniffer. |
 | [**`gen_revshell.py`**](https://gist.github.com/caueb/6f5a9d4c65489276deac911fddcac284) | Generate PowerShell rev shell & randomise variables. |
 | [**`create-pdf.py`**](https://gist.github.com/caueb/85ac1ace12036ef39b29fd22983ad199) | Creates a PDF with a hyperlink covering the whole document. |
 | [**`lookupadmins.py`**](https://gist.github.com/caueb/3fb7e083bf888509a1999d96e7a4ae31) | AD Recon: Retrieve the local admins on a remote target machine. |
